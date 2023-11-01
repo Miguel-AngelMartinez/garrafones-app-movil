@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="purificadoras.MainPage">
+    <Grid>
+        <Image Source="agua" Aspect="AspectFill" />
+        <BoxView Color="Transparent" Opacity="0.7">
+            <BoxView.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="#5ABAF4" Offset="0" />
+                    <GradientStop Color="Black" Offset="1" />
+                </LinearGradientBrush>
+            </BoxView.Background>
+        </BoxView>
+        <Grid Margin="80,20,70,0">
+            <Label TextColor="White" FontAttributes="Bold" FontSize="25" Text="PURIFICADORA"></Label>
+        </Grid>
+
+        <Grid>
+            <Frame Margin="40,90,40,30" CornerRadius="30">
+                <Grid>
+                    <Label TextColor="Black" Text="USUARIO*"></Label>
+                    <Frame Margin="0,40,0,395" CornerRadius="20">
+                        <Entry x:Name="usuarios" PlaceholderColor="Gray" Placeholder="usuario@user.com"></Entry>
+                    </Frame>
+                    <Label Margin="0,150,0,0" TextColor="Black" Text="CONTRASEÑA*"></Label>
+                    <Frame Margin="0,200,0,235" CornerRadius="20">
+                        <Entry x:Name="password" PlaceholderColor="Gray" Placeholder="ejemplo:12345"></Entry>
+                    </Frame>
+                    <Label Margin="30,310,0,0" TextColor="Black" Text="RECUPERAR CONTRASEÑA" TextDecorations="Underline"></Label>
+                    <Frame Margin="0,340,0,100" CornerRadius="20" BackgroundColor="Orange">
+                        <Button x:Name="Ingresar" Clicked="Ingresar_Clicked" Text="Ingresar" TextColor="Black" BackgroundColor="Orange"></Button>
+                    </Frame>
+                    <Frame Margin="0,440,0,0" CornerRadius="20" BackgroundColor="#5ABAF4">
+                        <Button x:Name="nuevo_usuario" Clicked="nuevo_usuario_Clicked" Text="Registrar Nuevo" TextColor="White" BackgroundColor="#5ABAF4"></Button>
+                    </Frame>
+                </Grid>
+                
+               
+            </Frame>
+        </Grid>
+        
+        </Grid>
+</ContentPage>

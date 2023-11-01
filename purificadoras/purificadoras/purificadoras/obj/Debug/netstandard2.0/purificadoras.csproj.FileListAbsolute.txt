@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\purificadoras\purificadoras\purificadoras\bin\Debug\netstandard2.0\purificadoras.deps.json
+C:\Users\DELL\source\repos\purificadoras\purificadoras\purificadoras\bin\Debug\netstandard2.0\purificadoras.dll
+C:\Users\DELL\source\repos\purificadoras\purificadoras\purificadoras\bin\Debug\netstandard2.0\ref\purificadoras.dll
+C:\Users\DELL\source\repos\purificadoras\purificadoras\purificadoras\bin\Debug\netstandard2.0\purificadoras.pdb
+C:\Users\DELL\source\repos\purificadoras\purificadoras\purificadoras\obj\Debug\netstandard2.0\purificadoras.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\purificadoras\purificadoras\purificadoras\obj\Debug\netstandard2.0\purificadoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\purificadoras\purificadoras\purificadoras\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DELL\source\repos\purificadoras\purificadoras\purificadoras\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\DELL\source\repos\purificadoras\purificadoras\purificadoras\obj\Debug\netstandard2.0\purificadoras.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\purificadoras\purificadoras\purificadoras\obj\Debug\netstandard2.0\purificadoras.AssemblyInfo.cs
+C:\Users\DELL\source\repos\purificadoras\purificadoras\purificadoras\obj\Debug\netstandard2.0\purificadoras.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\purificadoras\purificadoras\purificadoras\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\DELL\source\repos\purificadoras\purificadoras\purificadoras\obj\Debug\netstandard2.0\purificadoras.dll
+C:\Users\DELL\source\repos\purificadoras\purificadoras\purificadoras\obj\Debug\netstandard2.0\refint\purificadoras.dll
+C:\Users\DELL\source\repos\purificadoras\purificadoras\purificadoras\obj\Debug\netstandard2.0\purificadoras.pdb
